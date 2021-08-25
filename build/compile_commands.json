@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/test_a10_main.dir/examples/test_a10_main.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/examples/test_a10_main.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/examples/test_a10_main.cpp"
+},
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/estimation.dir/common/Image.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/common/Image.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/common/Image.cpp"
+},
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/estimation.dir/common/boxes.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/common/boxes.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/common/boxes.cpp"
+},
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/estimation.dir/common/lodepng.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/common/lodepng.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/common/lodepng.cpp"
+},
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/estimation.dir/estimation/a10.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/estimation/a10.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/estimation/a10.cpp"
+},
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/estimation.dir/estimation/basicImageManipulation.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/estimation/basicImageManipulation.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/estimation/basicImageManipulation.cpp"
+},
+{
+  "directory": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DUSE_OpenCV -isystem /usr/include/opencv -I/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/.   -O3 -std=c++11 -fPIC -g   -o CMakeFiles/estimation.dir/estimation/filtering.cpp.o -c /workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/estimation/filtering.cpp",
+  "file": "/workspace/mnt/storage/zhangziran/zhangzr2/motion_vector/src/estimation/filtering.cpp"
+}
+]

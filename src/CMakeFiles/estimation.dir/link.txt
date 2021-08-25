@@ -1,0 +1,2 @@
+/usr/bin/ar qc libestimation.a  CMakeFiles/estimation.dir/common/Image.cpp.o CMakeFiles/estimation.dir/common/boxes.cpp.o CMakeFiles/estimation.dir/common/lodepng.cpp.o CMakeFiles/estimation.dir/estimation/a10.cpp.o CMakeFiles/estimation.dir/estimation/basicImageManipulation.cpp.o CMakeFiles/estimation.dir/estimation/filtering.cpp.o
+/usr/bin/ranlib libestimation.a
